@@ -5,17 +5,7 @@ Sistem infonformasi perpustakaan dibangun mengunakan PHP
 
 ## Installation
 
-Clone project github
-
-```bash
-  git clone https://github.com/salmonella-code/sistem-perpustakaan.git
-```
-
 Pergi ke directory project
-
-```bash
-  cd sistem-perpustakaan
-```
 
 Import Database
 
@@ -32,7 +22,7 @@ Configuration Connection DB
 Using It
 
 ```bash
-  buka browser kemudian di tab url ketik (Sebagai Contoh): http://localhost/sistem-perpustakaan/   maka sistem akan otomatis menampilkan halaman login
+  buka browser kemudian di tab url ketik (Sebagai Contoh): http://localhost/newperpus/   maka sistem akan otomatis menampilkan halaman login
   ```
   
 ## User
