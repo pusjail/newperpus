@@ -97,7 +97,7 @@ if (!isset($_SESSION["login"])) {
             </div>
             <footer class="mt-auto card border-0 shadow">
                 <div class="card-body">
-                    <span class="text-secondary">Powered By &copy;JWD - Rizqi Nugroho - 2021</span>
+                    <span class="text-secondary">Copyright &copy;JWD - Rizqi Nugroho - 2021</span>
                 </div>
             </footer>
         </div>
